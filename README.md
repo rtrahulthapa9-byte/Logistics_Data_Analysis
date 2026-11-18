@@ -1,5 +1,7 @@
 # Logistics Performance Analysis
 
+
+
 #### **About the Project**
 
 This project is an interactive dashboard that tracks how deliveries are working. I analyze  2,000 orders from Jan 2025 to Oct 2026 and shows delivery speed, accuracy, and freight cost in one place. A year filter at the top lets you view the data for a chosen year.
@@ -14,6 +16,8 @@ To identify where deliveries are late, where freight costs are high, and what to
 - Delivery performance: On-Time Delivery (23%), In-Full Delivery (1.4%), OTIF (1.0%), and Order Accuracy (1.1%).
 - Transit and cost: Average Transit Time (7.6 days), Average Delay (2.8 days), Average Freight per Shipment (₹27,229), and Average Freight per Unit (₹52.85).
 - Charts: Delivery Status, On-Time Delivery % by Transport Mode, Average Freight Cost by Mode, and Top 10 Articles by Freight Cost.
+
+  ![My Image](https://github.com/rtrahulthapa9-byte/Logistics_Data_Analysis/blob/1547188f6f79e762cc5784f6e1e0ccb3e8a7ba58/Dashboard.jpg)
 
 #### Key Findings
 
@@ -32,6 +36,8 @@ To identify where deliveries are late, where freight costs are high, and what to
 - Monthly Orders and On-Time Delivery %: Orders and on-time delivery rate for each month from Jan-25 to Oct-26.
 - Freight Cost by Source Location: Total freight cost for each of the 15 source cities.
 - Freight Cost by Target Location: Total freight cost for each of the 15 destination cities.
+
+![My Image](https://github.com/rtrahulthapa9-byte/Logistics_Data_Analysis/blob/1547188f6f79e762cc5784f6e1e0ccb3e8a7ba58/Reports.jpg)
 
 **Key Findings**
 
